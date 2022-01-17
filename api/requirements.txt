@@ -1,0 +1,7 @@
+Flask == 1.1.2
+opencv-python-headless
+Pillow
+flask-cors == 3.0.10
+tensorflow == 2.7.0
+numpy == 1.19.5
+click == 7.1.2
